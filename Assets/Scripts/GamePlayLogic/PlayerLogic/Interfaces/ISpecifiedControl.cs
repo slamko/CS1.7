@@ -1,0 +1,6 @@
+﻿
+interface ISpecifiedControl
+{
+    void Execute();
+}
+

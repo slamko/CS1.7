@@ -1,0 +1,5 @@
+﻿
+ interface IPlayerInitialize
+ {
+    void Initialize();
+ }
